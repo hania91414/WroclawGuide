@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Wrocław Guide</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="string1">cos tam</string>
+    <string name="tab1">Must See</string>
+    <string name="tab2">Dance Schools</string>
+    <string name="tab3">Shopping Centers</string>
+    <string name="tab4">Cafes</string>
+
+    <string name="cafes_place_name1">Lulu Cafe Arkady Wrocławskie</string>
+    <string name="cafes_place_name2">Lulu Cafe Pasaż Grunwaldzki</string>
+    <string name="cafes_place_name3">Lulu Cafe Arkady Wrocławskie</string>
+    <string name="cafes_place_name4">Pijalnia Czekolady E.Wedel</string>
+    <string name="cafes_place_name5">SO! COFFEE</string>
+    <string name="cafes_place_name6">Costa Coffee</string>
+    <string name="cafes_place_name7">Herbaciarnia K2</string>
+    <string name="cafes_place_name8">Czekoladziarnia</string>
+    <string name="cafes_place_name9">Vinyl Cafe</string>
+    <string name="cafes_place_name10">Starbucks</string>
+
+    <string name="cafes_place_adress1">Plac Powstańców Śląskich 2</string>
+    <string name="cafes_place_adress2">plac Grunwaldzki 22</string>
+    <string name="cafes_place_adress3">Plac Powstańców Śląskich 2</string>
+    <string name="cafes_place_adress4">Rynek 59</string>
+    <string name="cafes_place_adress5">Świdnicka 1</string>
+    <string name="cafes_place_adress6">Świdnicka 3A</string>
+    <string name="cafes_place_adress7">Kiełbaśnicza 2</string>
+    <string name="cafes_place_adress8">Więzienna 31</string>
+    <string name="cafes_place_adress9">Kotlarska 35-36</string>
+    <string name="cafes_place_adress10">Oławska 1</string>
+
+    <string name="dSchools_place_name1">Al-Mara</string>
+    <string name="dSchools_place_name2">Street Dance Academy</string>
+    <string name="dSchools_place_name3">Studio 2 Piętro</string>
+    <string name="dSchools_place_name4">Akademia Dom Tańca Pałacyk</string>
+    <string name="dSchools_place_name5">Szkoła Tańca La Rosa Negra</string>
+    <string name="dSchools_place_name6">Akademia Ruchu</string>
+    <string name="dSchools_place_name7">Ruska 47/48A</string>
+    <string name="dSchools_place_name8">SALSA FEVER</string>
+    <string name="dSchools_place_name9">Tropical Dance</string>
+    <string name="dSchools_place_name10">Fly Dance Academy</string>
+
+    <string name="dSchools_place_adress1">Ofiar Oświęcimskich 19</string>
+    <string name="dSchools_place_adress2">Nabycińska 19</string>
+    <string name="dSchools_place_adress3">Żegiestowska 3</string>
+    <string name="dSchools_place_adress4">Kościuszki 34</string>
+    <string name="dSchools_place_adress5">Kruszwicka 26/28</string>
+    <string name="dSchools_place_adress6">Ruska 47/48A</string>
+    <string name="dSchools_place_adress7">Kazimierza Wielkiego 27</string>
+    <string name="dSchools_place_adress8">Ruska 47/48A </string>
+    <string name="dSchools_place_adress9">Świdnicka 19</string>
+    <string name="dSchools_place_adress10">Tęczowa 79/81</string>
+
+    <string name="mSee_place_name1">Hala Stulecia</string>
+    <string name="mSee_place_name2">Wrocławska Fontanna</string>
+    <string name="mSee_place_name3">Ratusz</string>
+    <string name="mSee_place_name4">Wieża Kościoła Garnizonowego p.w. św. Elżbiety</string>
+    <string name="mSee_place_name5">Punkt widokowy Sky Tower</string>
+    <string name="mSee_place_name6">Ogród Japoński</string>
+    <string name="mSee_place_name7">Ogród Zoologiczny</string>
+
+    <string name="mSee_place_adress1">Wystawowa 1</string>
+    <string name="mSee_place_adress2">Wystawowa 1</string>
+    <string name="mSee_place_adress3">Rynek 50</string>
+    <string name="mSee_place_adress4">Kiełbaśnicza 25A</string>
+    <string name="mSee_place_adress5">Powstańców Śląskich 95</string>
+    <string name="mSee_place_adress6">Adama Mickiewicza 1</string>
+    <string name="mSee_place_adress7">Wróblewskiego 1-5</string>
+
+    <string name="sCenters_place_name1">Galeria Dominikańska</string>
+    <string name="sCenters_place_name2">Pasaż Grunwaldzki</string>
+    <string name="sCenters_place_name3">Wroclavia</string>
+    <string name="sCenters_place_name4">Magnolia Park</string>
+    <string name="sCenters_place_name5">Arkady Wrocławskie</string>
+    <string name="sCenters_place_name6">Centrum Korona</string>
+    <string name="sCenters_place_name7">Renoma</string>
+    <string name="sCenters_place_name8">Centrum Handlowe Borek</string>
+    <string name="sCenters_place_name9">Sky Tower</string>
+    <string name="sCenters_place_name10">Wrocław Fashion Outlet</string>
+
+    <string name="sCenters_place_adress1">plac Dominikański 3</string>
+    <string name="sCenters_place_adress2">plac Grunwaldzki 22</string>
+    <string name="sCenters_place_adress3">Sucha 1</string>
+    <string name="sCenters_place_adress4">Legnicka 58</string>
+    <string name="sCenters_place_adress5">Powstańców Śląskich 2-4</string>
+    <string name="sCenters_place_adress6">Bolesława Krzywoustego 126</string>
+    <string name="sCenters_place_adress7">Renoma</string>
+    <string name="sCenters_place_adress8">aleja Hallera 52</string>
+    <string name="sCenters_place_adress9">Powstańców Śląskich 95</string>
+    <string name="sCenters_place_adress10">Graniczna 2</string>
+</resources>

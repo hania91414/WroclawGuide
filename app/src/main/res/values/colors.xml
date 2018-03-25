@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FBC02D</color>
+    <color name="colorPrimaryDark">#F57F17</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="cafes">#B05FA1</color>
+    <color name="danceSchools">#49A6E7</color>
+    <color name="shoppingCenters">#9866D9</color>
+    <color name="mustSee">#0191C8</color>
+    <color name="tab_background">#E8EBB4</color>
+    <color name="appText">#212121</color>
+</resources>
