@@ -7,11 +7,13 @@ package com.example.hanna.tourguideapp;
 
 public class LocalizInfo {
 
+    /**
+     * Constant value that represents no image was provided for this localizinfo
+     */
+    private static final int NO_IMAGE_PROVIDED = -1;
     private String mPlaceName;
     private String mPlaceAdress;
     private int mImageResourceId = NO_IMAGE_PROVIDED;
-    /** Constant value that represents no image was provided for this localizinfo */
-    private static final int NO_IMAGE_PROVIDED = -1;
 
     public LocalizInfo(String placeName, String placeAdress) {
         mPlaceName = placeName;
@@ -38,7 +40,9 @@ public class LocalizInfo {
         return mPlaceAdress;
     }
 
-    public int getImageResourceId(){return mImageResourceId;}
+    public int getImageResourceId() {
+        return mImageResourceId;
+    }
 
     /**
      * Returns whether or not there is an image for this localizinfo.

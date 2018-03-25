@@ -24,9 +24,11 @@ import android.support.v4.app.FragmentPagerAdapter;
  * Provides the appropriate {@link Fragment} for a view pager.
  */
 
-public class CategoryPagerAdapter extends android.support.v4.app.FragmentPagerAdapter  {
+public class CategoryPagerAdapter extends android.support.v4.app.FragmentPagerAdapter {
 
-    /** Context of the app */
+    /**
+     * Context of the app
+     */
     private Context mContext;
 
     public CategoryPagerAdapter(Context context, FragmentManager fm) {
@@ -41,9 +43,9 @@ public class CategoryPagerAdapter extends android.support.v4.app.FragmentPagerAd
     public Fragment getItem(int position) {
         if (position == 0) {
             return new MustSeeFragment();
-        } else if (position == 1){
+        } else if (position == 1) {
             return new DanceSchoolsFragment();
-        } else if (position == 2){
+        } else if (position == 2) {
             return new ShoppingCentersFragment();
         } else {
             return new CafesFragment();

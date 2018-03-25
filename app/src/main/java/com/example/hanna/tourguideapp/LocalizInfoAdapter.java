@@ -37,7 +37,7 @@ public class LocalizInfoAdapter extends ArrayAdapter<LocalizInfo> {
                     R.layout.single_item, parent, false);
         }
         // Get the {@link LocalizInfo} object located at this position in the list
-            LocalizInfo currentLocalizInfo = getItem(position);
+        LocalizInfo currentLocalizInfo = getItem(position);
 
 
         // Find the TextView in the list_item.xml layout with the ID version_name
@@ -53,7 +53,7 @@ public class LocalizInfoAdapter extends ArrayAdapter<LocalizInfo> {
         placeAdressTextView.setText(currentLocalizInfo.getmPlaceAdress());
 
         // Find the ImageView in the list_item.xml layout with the ID version_number
-        ImageView imageView = (ImageView) listItemView.findViewById(R.id.image);
+        ImageView imageView = listItemView.findViewById(R.id.image);
         // Check if an image is provided for this localizinfo or not
         if (currentLocalizInfo.hasImage()) {
             // If an image is available, display the provided image based on the resource ID
